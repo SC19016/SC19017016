@@ -18,7 +18,6 @@ using namespace Rcpp;
 //' @export
 // [[Rcpp::export]]
 int rcpp_add(int x,int y) {
-  
   int z;
   z=x+y;
   return z ;
