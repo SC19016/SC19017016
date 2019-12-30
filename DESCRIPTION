@@ -1,0 +1,17 @@
+Package: SC19017016
+Type: Package
+Title: The solution of simple problems in mathematical modeling
+Version: 1.0
+Date: 2019-12-29
+Author: SC19017016
+Maintainer: ZFYeee <zfyeee@126.com>
+Description: Some useful function will be provied 
+   to solve the mathematical modeling problem.
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.3)
+LinkingTo: Rcpp 
+Suggests:knitr, rmarkdown
+RoxygenNote: 7.0.2
+VignetteBuilder: knitr
+Encoding: UTF-8
+URL: https://github.com/SC19017016/SC19017016
